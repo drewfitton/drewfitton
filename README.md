@@ -3,7 +3,7 @@
 ## Table of Contents
 
 [Introduction](#introduction)
-[Technologies] (#technologies)
+[Technologies](#technologies)
 
 ### Introduction
 Hi, my name is Drew Fitton and I currently work in software integration, while pursuing my master's degree in Computer Science at Georgia Tech! My studies are specializing in Human-Computer interaction. I'm highly interested in all things related to how humans and computers interact:
@@ -16,7 +16,7 @@ Hi, my name is Drew Fitton and I currently work in software integration, while p
 
 ### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift)&nbsp;
+![Swift](https://img.shields.io/badge/swift-05122Astyle=flat&logo=swift)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypseScript-05122A?style=flat&logo=typescript&logoColor=blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=CoffeeScript)&nbsp;
