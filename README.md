@@ -39,6 +39,7 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 
 ### Technologies
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
+![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAi-05122A?style=flat&logo=OpenAI)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
