@@ -15,7 +15,7 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 - UI/UX Design
 - Data visualization
 
-### Coding Languages
+### Coding Languages (#codinglanguages)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=red)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypseScript-05122A?style=flat&logo=typescript&logoColor=blue)&nbsp;
