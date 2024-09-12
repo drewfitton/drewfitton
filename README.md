@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Table of Contents
+
+[Introduction](#introduction)
+
+### Introduction
+Hi, my name is Drew Fitton and I currently do software integration, while pursuing my Master's degree in Computer Science at Georgia Tech! 
 <!--
 **drewfitton/drewfitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
