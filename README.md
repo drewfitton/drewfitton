@@ -42,7 +42,7 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure-DevOps)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=GNU-Bash)&nbsp;
