@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+##  📫Contact me
+
+
 ## Table of Contents
 
 * [Introduction](#introduction)
@@ -26,6 +30,7 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=1572B6)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&logoColor=1572B6)&nbsp;
 
 ### Extensions
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
@@ -60,6 +65,12 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### Hobbies
+Some hobbies of mine in my free time include:
+- Playing football (soccer)
+- Developing fun Swift and React personal applications
+- Lifting weights
+- Hiking
+- Reality TV
 
 <!--
 **drewfitton/drewfitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
