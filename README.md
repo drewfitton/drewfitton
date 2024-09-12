@@ -53,6 +53,7 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Atlassian](https://img.shields.io/badge/-Atlassian%20Suite-05122A?style=flat&logo=atlassian&logoColor=blue)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
 ![macOS](https://img.shields.io/badge/-macOS-05122A?style=flat&logo=macOS)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
