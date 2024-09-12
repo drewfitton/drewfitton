@@ -16,7 +16,7 @@ Hi, my name is Drew Fitton and I currently work in software integration, while p
 
 ### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Swift](https://img.shields.io/badge/swift-05122Astyle=flat&logo=swift)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=red)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypseScript-05122A?style=flat&logo=typescript&logoColor=blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=CoffeeScript)&nbsp;
