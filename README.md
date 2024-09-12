@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-[Introduction](#introduction)
-
-[Technologies](#technologies)
+* [Introduction](#introduction) 
+* [Technologies](#technologies)
+* [Hobbies](#hobbies)
 
 ### Introduction
 Hi, my name is Drew Fitton and I currently work in software integration while pursuing my master's degree in Computer Science at Georgia Tech! My studies are specializing in Human-Computer interaction. I'm highly interested in all things related to how humans and computers interact:
@@ -17,6 +17,7 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 
 ### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=red)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypseScript-05122A?style=flat&logo=typescript&logoColor=blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -48,6 +49,7 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### Hobbies
 
 <!--
 **drewfitton/drewfitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
