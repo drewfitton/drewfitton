@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-
-##  📫Contact me
-<a href="https://www.linkedin.com/in/andrewfitton/"><img src="https://github.com/drewfitton/drewfitton/blob/main/linkedin-logo.png?raw=true" width="40"/></a>
-
 ## Table of Contents
 
 * [Introduction](#introduction)
