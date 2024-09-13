@@ -2,12 +2,12 @@
 
 
 ##  📫Contact me
-
+<a href="drew.fitton1950@gmail.com"><img src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Join Community Badge"/></a>
 
 ## Table of Contents
 
 * [Introduction](#introduction)
-* [Coding Languages](#codinglanguages)
+* [Coding Languages](#coding-languages)
 * [Extensions](#extensions)
 * [Technologies](#technologies)
 * [Hobbies](#hobbies)
