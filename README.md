@@ -52,6 +52,11 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### Current projects
+- iOS app for an Atlanta adult and pickup soccer league Sons of Pitches
+- Web development course through Udemy
+- Updating my personal website
+
 ### Hobbies
 Some hobbies of mine in my free time include:
 - Playing football (soccer)
