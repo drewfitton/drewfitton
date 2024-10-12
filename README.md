@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-## Table of Contents
-
-* [Introduction](#introduction)
-* [Coding Languages](#coding-languages)
-* [Extensions](#extensions)
-* [Technologies](#technologies)
-* [Hobbies](#hobbies)
-
 ### Introduction
 Hi, my name is Drew Fitton and I currently work in software integration while pursuing my master's degree in Computer Science at Georgia Tech! My studies are specializing in Human-Computer interaction. I'm highly interested in all things related to how humans and computers interact:
 - Web development
@@ -63,10 +55,9 @@ Hi, my name is Drew Fitton and I currently work in software integration while pu
 ### Hobbies
 Some hobbies of mine in my free time include:
 - Playing football (soccer)
-- Developing fun Swift and React personal applications
-- Lifting weights
+- Developing personal Swift and React applications
+- Skiing
 - Hiking
-- Reality TV
 
 <!--
 **drewfitton/drewfitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
