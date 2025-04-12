@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### Introduction
-Hi, my name is Drew Fitton and I currently work in software integration while pursuing my master's degree in Computer Science at Georgia Tech! My studies are specializing in Interactive Intelligence. I'm highly interested in all things related to AI and Software Development:
-- Interactive Intelligence
+Hi, my name is Drew Fitton and I currently work in software integration while pursuing my master's degree in Computer Science at Georgia Tech! My studies are specializing in Human Computer Interaction. I'm highly interested in all things related to Web and Software Development:
 - Full Stack Development
-- Implications of AI
+- Interactive Intelligence
+- Front-End Development
 - Data visualization / engineering
 
 ### Coding Languages
