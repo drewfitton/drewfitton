@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 ### Introduction
-Hi, my name is Drew Fitton and I currently work in software integration while pursuing my master's degree in Computer Science at Georgia Tech! My studies are specializing in Human Computer Interaction. I'm highly interested in all things related to Web and Software Development:
-- Full Stack Development
-- Interactive Intelligence
-- Front-End Development
-- Data visualization / engineering
+Hi, my name is Drew Fitton and I currently work in software integration while pursuing my master's degree in Computer Science at Georgia Tech! My studies are specializing in AI and HCI. I love to build creative solutions to interesting and complex technical problems, specifically pertaining to user experience and process optimization. A lot of my projects and recent work explores ways AI and ML can enhance both user-facing interactions and backend efficiency.
 
 ### Coding Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
