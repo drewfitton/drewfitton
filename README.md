@@ -52,7 +52,7 @@ Hi, my name is Drew Fitton and I am an incoming software engineer, also pursuing
 
 ### Hobbies
 Some hobbies of mine in my free time include:
-- Playing football (soccer)
+- Playing soccer
 - Skiing
 - Hiking
 
